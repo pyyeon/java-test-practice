@@ -1,11 +1,12 @@
-//package interface_vehicle;
-//
-//public interface Vehicle {
-//    private int speed = 0;
-//    void start();
-//    void stop();
-//    void accelerate();
-//    void decelerate();
-//
-//
-//}
+package interface_vehicle;
+
+public interface Vehicle {
+
+    void start();
+    void stop();
+    void accelerate(int speed);
+    void decelerate(int speed);
+    void turn(String direction);
+
+
+}

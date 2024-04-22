@@ -1,4 +1,4 @@
-package intrface_methodOverriding;
+package inheritance_methodOverriding;
 
 public class Car extends  Vehicle{
     @Override

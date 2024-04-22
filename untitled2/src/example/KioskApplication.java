@@ -1,6 +1,6 @@
 
     // KioskApplication.java
-package untitled2;
+package example;
 
 
     public class KioskApplication {

@@ -1,2 +1,4 @@
-package interfaceexample;public class Cat {
+package interfaceexample;
+
+public class Cat {
 }

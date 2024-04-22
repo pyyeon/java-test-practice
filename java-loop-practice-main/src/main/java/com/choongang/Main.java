@@ -1,13 +1,12 @@
+package com.choongang;
 
 public class Main {
-    public static void main(String[] args) {
-        Outer : for (int i = 3; i < 10; i++) {
-            for (int j = 5; j > 0; j--) {
-                System.out.println("i " + i + " j "+ j);
-                if (i == 5) {
-                    break Outer;
-                }
+    public static void main(String[] args) throws Exception{
+        for (int i = 0; i < 10; i++) {
+            if (i % 2 == 0) {
+                continue;
             }
+            System.out.println(i);
         }
     }
 }

@@ -1,4 +1,4 @@
-package interface_employee;
+package inheritance_employee;
 
 public class Address {
     String city,country;

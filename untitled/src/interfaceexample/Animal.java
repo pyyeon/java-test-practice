@@ -1,2 +1,5 @@
-package interfaceexample;public interface Animal {
+package interfaceexample;
+
+public interface Animal {
+
 }

@@ -1,2 +1,4 @@
-package interfaceexample;public class Dog {
+package interfaceexample;
+
+public class Dog {
 }

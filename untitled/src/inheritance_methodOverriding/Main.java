@@ -1,4 +1,4 @@
-package intrface_methodOverriding;
+package inheritance_methodOverriding;
 
 public class Main {
     public static void main(String[] args) {

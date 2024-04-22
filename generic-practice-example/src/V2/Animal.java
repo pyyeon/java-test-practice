@@ -1,2 +1,5 @@
-package V2;public interface Animal {
+package V2;
+
+public interface Animal {
+
 }

@@ -1,2 +1,4 @@
-package com.jungmin.seb.kiosk_program;public class main {
+package com.jungmin.seb.kiosk_program;
+
+public class main {
 }

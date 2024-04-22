@@ -1,2 +1,7 @@
-package abstract_example;public class Animal {
+package abstract_example;
+
+abstract class Animal {
+    public String kind;
+
+   public abstract void sound();
 }

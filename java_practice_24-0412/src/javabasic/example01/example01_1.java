@@ -1,4 +1,4 @@
-package javabasic;
+package javabasic.example01;
 
 public class example01_1 {
     public static void main(String[] args) {

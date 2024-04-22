@@ -1,4 +1,4 @@
-package javabasic;
+package javabasic.example03;
 
 import java.util.Scanner;
 
