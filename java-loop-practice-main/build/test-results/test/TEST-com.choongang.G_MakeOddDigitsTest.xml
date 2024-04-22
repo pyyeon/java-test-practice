@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.G_MakeOddDigitsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-05T07:30:48" hostname="BOOK-LCCUUB9T5H" time="0.057">
+  <properties/>
+  <testcase name="1을(를) 입력받은 경우, &quot;1&quot;을(를) 리턴해야 합니다" classname="com.choongang.G_MakeOddDigitsTest" time="0.055"/>
+  <testcase name="5을(를) 입력받은 경우, &quot;13579&quot;을(를) 리턴해야 합니다" classname="com.choongang.G_MakeOddDigitsTest" time="0.001"/>
+  <testcase name="7을(를) 입력받은 경우, &quot;135791113&quot;을(를) 리턴해야 합니다" classname="com.choongang.G_MakeOddDigitsTest" time="0.001"/>
+  <testcase name="25을(를) 입력받은 경우, &quot;135791113151719212325272931333537394143454749&quot;을(를) 리턴해야 합니다" classname="com.choongang.G_MakeOddDigitsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
