@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choongang.MyStorageTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-04-25T09:57:46" hostname="BOOK-LCCUUB9T5H" time="0.031">
+  <properties/>
+  <testcase name="제품 수량 증가 메서드 테스트(prodAmountAdd)가 올바르게 수량을 증가시켜야 합니다." classname="com.choongang.MyStorageTest" time="0.021"/>
+  <testcase name="제품 등록 메서드 테스트(prodInput)가 올바르게 제품을 추가해야 합니다." classname="com.choongang.MyStorageTest" time="0.001"/>
+  <testcase name="제품 삭제 메서드 테스트(prodRemove)가 올바르게 제품을 제거해야 합니다." classname="com.choongang.MyStorageTest" time="0.001"/>
+  <testcase name="제품 수량 감소 메서드 테스트(prodAmountDecrease)가 올바르게 수량을 감소시켜야 합니다." classname="com.choongang.MyStorageTest" time="0.001"/>
+  <testcase name="남은 수량보다 더 많이 출고할 수 없습니다." classname="com.choongang.MyStorageTest" time="0.001"/>
+  <testcase name="수량 감소 메서드에서 유효성 검증 테스트(숫자가 아닐 경우)" classname="com.choongang.MyStorageTest" time="0.001"/>
+  <testcase name="수량 증가 메서드에서 유효성 검증 테스트(숫자가 아닐 경우)" classname="com.choongang.MyStorageTest" time="0.001"/>
+  <system-out><![CDATA[[System] 물건의 수량을 추가합니다.(입고)
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 5개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 수량을 추가할 제품명을 입력하세요 : [System] 추가할 수량을 입력해주세요 : [Clear] 정상적으로 제품의 수량 추가가 완료되었습니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 8개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 제품 등록을 원하는 제품명을 입력하세요 : [System] 등록이 완료됐습니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 제품 등록 취소를 원하는 제품명을 입력하세요 : [System] 제품 취소가 완료됐습니다.
+[System] 현재 등록된 물건 목록 ▼
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 제품의 출고를 진행합니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 10개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+ 출고를 진행할 제품명을 입력하세요 : [System] 원하는 출고량을 입력하세요 : [Clear] 출고가 완료되었습니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 5개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 제품의 출고를 진행합니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 5개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+ 출고를 진행할 제품명을 입력하세요 : [System] 원하는 출고량을 입력하세요 : [Error] 출고 가능한 수량이 아닙니다.
+[System] 제품의 출고를 진행합니다.
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 10개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+ 출고를 진행할 제품명을 입력하세요 : [System] 원하는 출고량을 입력하세요 : [Error] 숫자를 입력해주세요.
+[System] 물건의 수량을 추가합니다.(입고)
+[System] 현재 등록된 물건 목록 ▼
+> TestProduct : 5개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+> 등록 가능 : 0개
+[System] 수량을 추가할 제품명을 입력하세요 : [System] 추가할 수량을 입력해주세요 : [Error] 숫자를 입력해주세요.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
