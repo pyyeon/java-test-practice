@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.choongang.AssignmentCharTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-04-04T00:52:04" hostname="BOOK-LCCUUB9T5H" time="0.05">
-  <properties/>
-  <testcase name="변수 course에 문자 'A'를 할당하세요" classname="com.choongang.AssignmentCharTest" time="0.05"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
